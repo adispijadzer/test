@@ -1,1 +1,1 @@
-url = 'adisp.ba'
+url = 'adis.ba'
